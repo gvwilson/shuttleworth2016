@@ -4,29 +4,124 @@ Date of Birth: 1963-01-25
 Gender: Male
 Nationality: Canadian
 
-1) Tell us about the world as you see it.
-(A description of the status quo and context in which you will be working)
+1) Tell us about the world as you see it. (A description of the status
+   quo and context in which you will be working)
 
-2) What change do you want to make in the world?
-(A description of what you want to change about the status quo, in the world, your personal vision for this area)
+Thousands of volunteer "learn to code" groups have sprung up in the
+last ten years.  They exist so that people won't have to teach
+themselves how to program, but ironically, many of their founders are
+teaching themselves everything from instructional design to community
+organization.  Like many self-taught programmers, the leaders of these
+groups often don't even know what they don't know.
 
-3) What do you believe has prevented this change to date?
-(Describe the innovations or questions you would like to explore during the fellowship year)
+2) What change do you want to make in the world? (A description of
+   what you want to change about the status quo, in the world, your
+   personal vision for this area)
 
-4) What are you going to do to get there?
-(A description of what you actually plan to do during the year)
+Over the past six years, I helped build a volunteer non-profit
+organization called Software Carpentry that now has over 750 members,
+who together teach several hundred two-day workshops to scientists
+each year.  Separately, I co-organized a two-day meeting in 2015
+called "Teaching Tech Together" (T3) for leaders of grassroots coding
+groups that focus on increasing the inclusion of people from
+under-represented intersections of gender, race, sexuality, ability,
+and class.
+
+I now want to create an organization like Software Carpentry to help
+grassroots get-into-coding groups --- particularly those seeking to
+correct the computing industry's many diversity failures --- share and
+improve curriculum, good teaching practices, and other resources.
+More importantly, I want this organization to help programmers learn
+the outlook and skills that social justice movements have been honing
+for decades.
+
+3) What do you believe has prevented this change to date?  (Describe
+   the innovations or questions you would like to explore during the
+   fellowship year)
+
+1. Most people are completely unaware of the existence of the
+   literature on evidence-based teaching and learning.  Ask the
+   average programmer (or professor) what peer instruction is, or what
+   the difference is between formative and summative assessment, and
+   you will probably get a blank stare.
+
+2. Hubris.  Good intentions aside, people with technical skills
+   usually don't have any previous experience in activism, social
+   justice, or community organization.  As a result, "We can teach
+   them to program" is very rarely matched by, "And they can teach us
+   how to run a non-profit, make friends at City Hall, or improve our
+   teaching practices."
+
+4) What are you going to do to get there?  (A description of what you
+   actually plan to do during the year)
+
+1. Since 2012, I have been the principal developer of Software
+   Carpentry's intensive two-day introduction to modern teaching
+   practices.  I will adapt and expand this material to place much
+   more emphasis on teaching disadvantaged and under-represented
+   groups, and to include material on allyship, community
+   organization, and non-profit management.  Everything will be made
+   freely available under a CC-BY license.
+
+2. I will teach and co-teach workshops using this material, both in
+   person and online, for people with technical backgrounds who wish
+   to become involved in grassroots get-into-coding efforts.  I will
+   then recruit peopple who have participated in these workshops (both
+   as learners and as co-instructors) to become future instructors,
+   using the same learn-help-teach-train model that has enabled
+   Software Carpentry to grow.
+
+Note that work in the first year will focus on Canada and the United
+States --- you gotta start somewhere, and that's where I am.  If this
+project is successful, I will seek to expand it geographically using
+the same "local champions" model as Software Carpentry.
 
 5) What challenges or uncertainties do you expect to face?
 
+1. Grassroots coding organizations that focus on under-represented
+   groups are typically shoestring operations.  We cannot rely on them
+   to (for example) cover travel costs for people to attend workshops,
+   or even to bring in an instructor.  We will therefore seek funding
+   from other organizations to subsidize travel costs.  Software
+   Carpentry has had good luck finding such money in the past for
+   events such as its workshops for women in science and engineering,
+   so I am confident we will be able to find at least part of what we
+   need.
+
+   Note: another solution would be to do some or all of the training
+   online, but this provides many fewer opportunities for participants
+   to make personal connections, which I believe will be crucial to
+   the success of this project.
+
+2. I am white, male, straight, and have no physical disabilities or
+   criminal record.  In short, I'm about as privileged as it gets.  In
+   order for this project to succeed, I will have to avoid falling
+   into the "talking without listening" trap described earlier, and
+   recruit a diverse group of collaborators.  I hope I can do the
+   former, and I believe I can rely on contacts made through the T3
+   summit, Software Carpentry, and other groups to achieve the latter.
+
 6) What part does openness play in your idea?
+
+"Open" is meaningless if people do not have the skills and
+opportunities to take advantage of what is theoretically available to
+them.  Making grassroots coding groups more effective will enable them
+to bring "open" within reach of more people, particularly those who
+are now notably absent from Silicon Valley.
 
 7) Does your idea/project have a name?
 [x] Yes
 [ ] No
 
+Teaching Tech Together (the name of the 2015 summit)
+
 8) Have you started implementation of the idea?
 [x] Yes
 [ ] No
+
+Work to date includes creation of Software Carpentry's instructor
+training course, the original T3 summit, and *lots* of practice
+organizing and running workshops.
 
 9) How have you funded your initiative in the past?
 [ ] Self funded
@@ -36,7 +131,17 @@ Nationality: Canadian
 [ ] Venture capital
 [x] Other
 
+A mix of grants, donations, and partnership fees from various research organizations.
+
 10) Who are your current or potential key partners?
+
+I will approach the organizations that have funded diversity
+initiatives I've been involved in previously, including Microsoft,
+GitHub, Rackspace, JP Morgan, Google, Rackspace, and the Python
+Software Foundation.  I will also approach groups such as the
+Highlander Research and Education Center, the Midwest Academy, and
+others will proven track records of teaching commmunitiy organization
+skills.
 
 11) Do you intend to implement the idea as a for profit or not for profit initiative?
 [ ] For profit
