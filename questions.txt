@@ -1,0 +1,92 @@
+Name: Greg Wilson
+Email: gvwilson@software-carpentry.org
+Date of Birth: 1963-01-25
+Gender: Male
+Nationality: Canadian
+
+1) Tell us about the world as you see it.
+(A description of the status quo and context in which you will be working)
+
+2) What change do you want to make in the world?
+(A description of what you want to change about the status quo, in the world, your personal vision for this area)
+
+3) What do you believe has prevented this change to date?
+(Describe the innovations or questions you would like to explore during the fellowship year)
+
+4) What are you going to do to get there?
+(A description of what you actually plan to do during the year)
+
+5) What challenges or uncertainties do you expect to face?
+
+6) What part does openness play in your idea?
+
+7) Does your idea/project have a name?
+[x] Yes
+[ ] No
+
+8) Have you started implementation of the idea?
+[x] Yes
+[ ] No
+
+9) How have you funded your initiative in the past?
+[ ] Self funded
+[ ] Family and friends
+[ ] Not funded yet
+[ ] Angel investor
+[ ] Venture capital
+[x] Other
+
+10) Who are your current or potential key partners?
+
+11) Do you intend to implement the idea as a for profit or not for profit initiative?
+[ ] For profit
+[x] Not for profit
+[ ] Haven't thought about it...
+
+12) Where will you be based during the fellowship?
+Base Country: Canada
+Base City: Toronto
+
+13) Where will you implement your idea?
+[ ] Same as above
+[x] Online
+[ ] Other country or city
+
+14) Do you have an online presence?
+[x] Yes
+[ ] No
+
+15) Does the idea/project have an online presence?
+[x] Yes
+[ ] No
+
+Upload Resume
+
+Link to your video
+Vimeo or YouTube preferable. Facebook or Dropbox links not accepted
+Video password (if private)
+
+I acknowledge that:
+[x] This video is purpose made for this application.
+[x] This video link points to a video available on a video hosting service like Vimeo or YouTube.
+
+16. Have you applied for a Shuttleworth Foundation Fellowship in a previous round?
+[x] Yes
+[ ] No
+
+15. How did you hear about the Shuttleworth Foundation Fellowship Program?
+[x] Friend
+[x] Current/Past Fellow
+[x] On the web
+[ ] In the mainstream media
+[ ] At a conference
+[ ] Other
+
+I acknowledge that:
+
+[x] I have read and understood the Foundation Privacy Policy: https://shuttleworthfoundation.org/privacy/
+[x] I have read and understood the Terms and Conditions of the website: https://shuttleworthfoundation.org/terms/
+[x] I am above the age of majority in my country of residence and can legally enter into contracts.
+[x] I understand that the Foundation will require all intellectual property created as part of the Fellowship to be openly licensed.
+[x] I understand that if my project has a for-profit element, the Foundation will ask for an equity stake based on the investment made.
+[x] I understand that if my application is incomplete in any way, it will not be reviewed. It will be excluded for this round.
