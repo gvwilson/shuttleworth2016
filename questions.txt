@@ -36,9 +36,9 @@ have learned from these projects to effect significant change.
    the innovations or questions you would like to explore during the
    fellowship year)
 
-1. Most people are completely unaware of how much we know about
-   evidence-based teaching and learning.  Ask the average programmer
-   (or professor) what peer instruction is, or what the difference is
+1. Most people are completely unaware of how much we actually know
+   about teaching and learning: ask the average programmer (or
+   professor) what peer instruction is, or what the difference is
    between formative and summative assessment, and you will probably
    get a blank stare.
 
