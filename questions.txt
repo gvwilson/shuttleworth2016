@@ -7,49 +7,46 @@ Nationality: Canadian
 1) Tell us about the world as you see it. (A description of the status
    quo and context in which you will be working)
 
-Thousands of volunteer "learn to code" groups have sprung up in the
-last ten years.  They exist so that people won't have to teach
-themselves how to program, but ironically, many of their founders are
-teaching themselves everything from instructional design to community
-organization.  Like many self-taught programmers, the leaders of these
-groups often don't even know what they don't know.
+Thousands of "learn to code" groups have sprung up in the last ten
+years so that people won't have to figure out how to program on their
+own.  These groups' founders usually have technical backgrounds, and
+ironically, are often now struggling to learn good teaching practices
+and community organization on their own.
 
 2) What change do you want to make in the world? (A description of
    what you want to change about the status quo, in the world, your
    personal vision for this area)
 
-Over the past six years, I helped build a volunteer non-profit
-organization called Software Carpentry that now has over 750 members,
-who together teach several hundred two-day workshops to scientists
-each year.  Separately, I co-organized a two-day meeting in 2015
-called "Teaching Tech Together" (T3) for leaders of grassroots coding
-groups that focus on increasing the inclusion of people from
-under-represented intersections of gender, race, sexuality, ability,
-and class.
+I want to to help grassroots get-into-coding groups --- particularly
+those seeking to correct computing's many diversity failures --- to
+share and improve their curriculum and teaching practices.  At the
+same time, I want to help programmers learn the "soft" skills that
+social justice movements have been honing for decades.
 
-I now want to create an organization like Software Carpentry to help
-grassroots get-into-coding groups --- particularly those seeking to
-correct the computing industry's many diversity failures --- share and
-improve curriculum, good teaching practices, and other resources.
-More importantly, I want this organization to help programmers learn
-the outlook and skills that social justice movements have been honing
-for decades.
+As a starting point, I have spent the last six years helping to build
+a volunteer organization called Software Carpentry whose members now
+teach several hundred two-day coding workshops each year.  Separately,
+I co-organized a meeting in 2015 called "Teaching Tech Together" (T3)
+for leaders of grassroots coding groups that focus on increasing the
+inclusion of people from under-represented intersections of gender,
+race, sexuality, ability, and class.  I believe I can combine what I
+have learned from these projects to effect significant change.
 
 3) What do you believe has prevented this change to date?  (Describe
    the innovations or questions you would like to explore during the
    fellowship year)
 
-1. Most people are completely unaware of the existence of the
-   literature on evidence-based teaching and learning.  Ask the
-   average programmer (or professor) what peer instruction is, or what
-   the difference is between formative and summative assessment, and
-   you will probably get a blank stare.
+1. Most people are completely unaware of how much we know about
+   evidence-based teaching and learning.  Ask the average programmer
+   (or professor) what peer instruction is, or what the difference is
+   between formative and summative assessment, and you will probably
+   get a blank stare.
 
-2. Hubris.  Good intentions aside, people with technical skills
-   usually don't have any previous experience in activism, social
-   justice, or community organization.  As a result, "We can teach
-   them to program" is very rarely matched by, "And they can teach us
-   how to run a non-profit, make friends at City Hall, or improve our
+2. Good intentions aside, people with technical skills usually don't
+   have any previous experience in activism, social justice, or
+   community organization.  As a result, "We can teach them to
+   program" is very rarely matched by, "And they can teach us how to
+   run a non-profit, make friends at City Hall, or improve our
    teaching practices."
 
 4) What are you going to do to get there?  (A description of what you
@@ -57,16 +54,16 @@ for decades.
 
 1. Since 2012, I have been the principal developer of Software
    Carpentry's intensive two-day introduction to modern teaching
-   practices.  I will adapt and expand this material to place much
-   more emphasis on teaching disadvantaged and under-represented
-   groups, and to include material on allyship, community
-   organization, and non-profit management.  Everything will be made
-   freely available under a CC-BY license.
+   practices.  Guided by community leaders, I will adapt and expand
+   this material to place much more emphasis on teaching disadvantaged
+   and under-represented groups, and to include material on allyship,
+   community organization, and non-profit management.  Everything will
+   be made freely available under a CC-BY license from day one.
 
 2. I will teach and co-teach workshops using this material, both in
    person and online, for people with technical backgrounds who wish
    to become involved in grassroots get-into-coding efforts.  I will
-   then recruit peopple who have participated in these workshops (both
+   then recruit people who have participated in these workshops (both
    as learners and as co-instructors) to become future instructors,
    using the same learn-help-teach-train model that has enabled
    Software Carpentry to grow.
@@ -94,20 +91,21 @@ the same "local champions" model as Software Carpentry.
    the success of this project.
 
 2. I am white, male, straight, and have no physical disabilities or
-   criminal record.  In short, I'm about as privileged as it gets.  In
-   order for this project to succeed, I will have to avoid falling
-   into the "talking without listening" trap described earlier, and
-   recruit a diverse group of collaborators.  I hope I can do the
-   former, and I believe I can rely on contacts made through the T3
-   summit, Software Carpentry, and other groups to achieve the latter.
+   criminal record: in short, I'm about as privileged as it gets.  In
+   order for this project to succeed, I will have to recruit a diverse
+   group of collaborators.  I believe I can do this using contacts
+   made through the T3 summit, Software Carpentry, and other groups.
 
 6) What part does openness play in your idea?
 
 "Open" is meaningless if people do not have the skills and
-opportunities to take advantage of what is theoretically available to
-them.  Making grassroots coding groups more effective will enable them
-to bring "open" within reach of more people, particularly those who
-are now notably absent from Silicon Valley.
+opportunities to take advantage of what is supposedly available.
+Helping grassroots coding groups be more effective will enable them to
+bring "open" within reach of more people, particularly those who are
+now notably absent from Silicon Valley.  That in turn may inject some
+much-needed empathy into an industry that often talks about
+disruption, but in practice often fails to see the need for real
+systemic change.
 
 7) Does your idea/project have a name?
 [x] Yes
@@ -135,13 +133,17 @@ A mix of grants, donations, and partnership fees from various research organizat
 
 10) Who are your current or potential key partners?
 
-I will approach the organizations that have funded diversity
-initiatives I've been involved in previously, including Microsoft,
-GitHub, Rackspace, JP Morgan, Google, Rackspace, and the Python
-Software Foundation.  I will also approach groups such as the
-Highlander Research and Education Center, the Midwest Academy, and
-others will proven track records of teaching commmunitiy organization
-skills.
+1. Organizations that have funded diversity initiatives I've been
+   involved in previously, including Microsoft, GitHub, Rackspace, JP
+   Morgan, Google, and the Python Software Foundation.
+
+2. Existing grassroots coding organizations such as Railsbridge, Black
+   Girls Code, DjangoGirls, Ladies Learning Code, and Hear Me Code.
+
+3. Groups such as the Highlander Research and Education Center, the
+   Midwest Academy, the Hispanic Heritage Foundation, and others with
+   proven track records of teaching commmunity organization and
+   leadership.
 
 11) Do you intend to implement the idea as a for profit or not for profit initiative?
 [ ] For profit
