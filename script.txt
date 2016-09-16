@@ -1,0 +1,81 @@
+Shuttleworth Foundation Fellowship Proposal October 2016
+========================================================
+
+Hi.  I'm Greg Wilson.  I'm a big fan of open source, open science, and
+open data, but I think that calling something "open" is meaningless if
+people don't have the skills they need to take advantage of it.  Right
+now, one of the most important of those skills is programming, but the
+computing industry is heavily biased toward a few kinds of people at
+the expense of many others.  Lots of grassroots get-into-coding
+organizations are trying to do something about that, and I'd like you
+to help me help them.
+
+Eighteen years ago, I started teaching scientists how to use computers
+to get more done in less time and with less pain.  That has grown into
+a non-profit organization called Software Carpentry that teaches
+several hundred two-day coding workshops each year to tens of
+thousands of people worldwide.
+
+As Software Carpentry has grown, my personal focus has shifted from
+teaching programming to teach people how to teach programming.  With
+help from a lot of people, I've built an intensive two-day course on
+modern evidence-based teaching methods, and have used it to train
+hundreds of instructors.
+
+I've learned a few things along the way.  The first is that if you
+want to create a successful grassroots coding group, you need more
+than just technical knowledge: you need to know how to teach and how
+to organize a community.  Ironically, programmers - like me - set up
+groups like Software Carpentry so that people won't have to figure out
+coding on their own, but then go off and try to figure out all those
+"soft" skills by ourselves.
+
+The second thing I've learned is that we know a lot more about
+education and community organization than most people realize.  Peer
+instruction, collaborative note-taking, interleaved practice: all of
+these techniques help people learn more, and faster, but most of us
+have never heard of them.
+
+Similarly, thousands of community organizations have decades of
+experience getting people to work together to make society a better
+place.  Whether it's drawing up a budget, running a meeting, or
+figuring out what to do about child care so that people can actually
+come out to events, there's a thousand and one things that coders
+don't need to reinvent, and a thousand and one mistakes they don't
+need to make.
+
+Last year, I helped organize a summit meeting of people who are
+running grassroots get-into-coding efforts for groups that are
+noticeably absent from Silicon Valley: women, people of color, people
+of various sexual orientations, the economically disadvantaged -
+everyone who isn't a straight, white or Asian, middle class male.  A
+lot of the participants in that meeting, and a lot of the volunteers
+who work with them, would like the kind of training that I've been
+offering through Software Carpentry.
+
+At the same time, many of them have a lot of important lessons to
+teach to people like me - how to be a good ally, or wrangle a meeting
+with City Hall, or listen to a community to find out what they
+actually need and how to help them get it.
+
+I would therefore like to take what I've learned over the last few
+years and use it to help grassroots coding groups be more effective.
+I'll start by teaching what I know about teaching, but will listen to
+what the people who run those groups know about community organization
+and fold it into the lessons so that it can be passed on to others.  I
+will then recruit people I've met or taught to become trainers
+themselves using the same model that has enabled Software Carpentry to
+grow.  Everything at every stage will be freely available under an
+open license, and we will show people how to contribute so that the
+training materials will become a true community resource.
+
+A lot of open source projects are started by people scratching their
+own itch and then discovering that other people have the same one.
+This project is meant to scratch the itch I didn't even know I had
+when I started Software Carpentry eighteen years ago - to give
+everyone who doesn't know what my younger self didn't know the
+knowledge and skills they need to get more done in less time and with
+less pain.  I hope it will make the world a slightly better place, and
+I look forward to hearing what you think.
+
+Thank you for listening.
