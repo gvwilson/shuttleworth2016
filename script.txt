@@ -54,30 +54,34 @@ Asian, middle class male.  A lot of the participants in that meeting,
 and a lot of the volunteers who work with them, would like the kind of
 training that I've been offering through Software Carpentry.
 
-At the same time, many of them have important lessons to teach to
-people like me: how to be a good ally, how to wrangle a meeting with
-City Hall, or how to listen to a community to find out what they
-actually need and how to help them get it.
+At the same time, many of them have important lessons to teach people
+like me: how to be a good ally, how to wrangle a meeting with City
+Hall, how to listen to a community to find out what they actually need
+and how to help them get it...  I know more about this than I used to,
+but I still have a lot to learn, and so do people with backgrounds
+like mine who want to make a difference but are only just beginning to
+realize that there's more to this than Javascript.
 
-I would therefore like to take what I've learned over the last few
-years and use it to help grassroots learn-to-code groups.  I'll start
-by teaching what I know about teaching: it's what I have to offer, and
-it will get people into the room so that I can listen to them to find
-out what they know about running groups like this.  I will fold what I
-learn into what I teach so that it can be passed on, and recruit more
-trainers in the same way that Software Carpentry does.  This will let
-us reach more people, but will also ensure that what we say is shaped
-by many voices and perspectives.  Everything at every stage will be
-freely available under an open license, and we will show people how to
-contribute so that the training materials will become a true community
-resource.
+So here's my plan.  First, I'm going to offer classes on modern
+evidence-based teaching methods to people involved in grassroots
+learn-to-code groups.  That will help them right away, but it will
+also get them into the room so that I can find out what they know that
+other people don't.  Through interviews, observation, and helping them
+out, I'll identify common practices, common problems, and common
+solutions, then turn what I find into new lessons so that it can be
+passed on.
 
-A lot of open source projects are started by people filling their own
-needs and then discovering that other people have the same ones.  This
-project is meant to fill a need I didn't even know I had when I
-started Software Carpentry eighteen years ago.  I think it will help
-people who are trying to make computing and openness more inclusive be
-more effective.  I *hope* that doing this will make the world a
-slightly better place.
+Second, I recruit trainers from the people who've taken part in these
+workshops using the same model that has worked so well for Software
+Carpentry.  This will let us reach more people, but will also ensure
+that what we say is shaped by many voices and perspectives.
+Everything at every stage will be freely available under an open
+license, and we will show people how to contribute so that the
+training materials will be a true community resource.
+
+I think this project will help people who are trying to make computing
+more inclusive and openness more accessible.  I believe it will work
+because it has once already, and I *hope* that it will make the world
+a slightly better place.
 
 Thank you for listening - I look forward to hearing from you.
