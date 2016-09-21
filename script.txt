@@ -1,0 +1,87 @@
+Shuttleworth Foundation Fellowship Proposal October 2016
+========================================================
+
+Hi.  I'm Greg Wilson.  I'm a big fan of open source, open science, and
+open data, but I think that calling something "open" is meaningless if
+people don't have the skills they need to take advantage of it.  Right
+now, one of the most important of those skills is programming, but the
+computing industry is heavily biased toward a few kinds of people at
+the expense of many others.  Lots of grassroots get-into-coding
+organizations are trying to do something about that, and I'd like you
+to help me help them.
+
+Eighteen years ago, I started teaching scientists how to use computers
+to get more done in less time and with less pain.  That has grown into
+a non-profit organization called Software Carpentry that teaches
+several hundred two-day coding workshops each year to tens of
+thousands of people worldwide.
+
+As Software Carpentry has grown, my personal focus has shifted from
+teaching programming to teach people how to teach programming.  With
+help from a lot of people, I've built an intensive two-day course on
+modern evidence-based teaching methods, and have used it to train
+hundreds of instructors.
+
+I've learned a few things along the way.  The first is that if you
+want to create a successful grassroots learn-to-code group, you need
+more than just technical knowledge: you need to know how to teach and
+how to organize a community.  Ironically, programmers - like me - set
+up groups like Software Carpentry so that people won't have to figure
+out coding on their own, but then assume that all the "soft" skills
+are easy, and that we can pick them up or reinvent them without help
+or guidance.
+
+The second thing I've learned is that most people don't realize how
+much specialists know about education and community organization.
+Peer instruction, collaborative note-taking, interleaved practice: all
+of these techniques help people learn better and faster, but most of
+of the general public have never heard of them.
+
+Similarly, thousands of community organizations have decades of
+experience getting people to work together to make society a better
+place.  Whether it's drawing up a budget, running a meeting, or
+figuring out what to do about child care so that people can actually
+come out to events, there's a thousand and one things that coders
+don't need to reinvent, and a thousand and one mistakes they don't
+need to make.
+
+Last year, I helped organize a summit meeting of people who are
+running grassroots get-into-coding efforts for groups that are
+noticeably absent from Silicon Valley: women, people of color, people
+of various sexual orientations, the disabled, the economically
+disadvantaged - basically, everyone who isn't a straight, white or
+Asian, middle class male.  A lot of the participants in that meeting,
+and a lot of the volunteers who work with them, would like the kind of
+training that I've been offering through Software Carpentry.
+
+At the same time, many of them have important lessons to teach people
+like me: how to be a good ally, how to wrangle a meeting with City
+Hall, how to listen to a community to find out what they actually need
+and how to help them get it...  I know more about this than I used to,
+but I still have a lot to learn, and so do people with backgrounds
+like mine who want to make a difference but are only just beginning to
+realize that there's more to this than Javascript.
+
+So here's my plan.  First, I'm going to offer classes on modern
+evidence-based teaching methods to people involved in grassroots
+learn-to-code groups.  That will help them right away, but it will
+also get them into the room so that I can find out what they know that
+other people don't.  Through interviews, observation, and helping them
+out, I'll identify common practices, common problems, and common
+solutions, then turn what I find into new lessons so that it can be
+passed on.
+
+Second, I recruit trainers from the people who've taken part in these
+workshops using the same model that has worked so well for Software
+Carpentry.  This will let us reach more people, but will also ensure
+that what we say is shaped by many voices and perspectives.
+Everything at every stage will be freely available under an open
+license, and we will show people how to contribute so that the
+training materials will be a true community resource.
+
+I think this project will help people who are trying to make computing
+more inclusive and openness more accessible.  I believe it will work
+because it has once already, and I *hope* that it will make the world
+a slightly better place.
+
+Thank you for listening - I look forward to hearing from you.
