@@ -5,7 +5,7 @@ Gender: Male
 Nationality: Canadian
 
 1) Tell us about the world as you see it. (A description of the status
-   quo and context in which you will be working)
+   quo and context in which you will be working, 1500 char)
 
 Thousands of grassroots "learn to code" groups have sprung up in the
 last ten years to teach people how to program own.  To be successful,
@@ -16,7 +16,7 @@ to pedagogy, allyship, and non-profit management.
 
 2) What change do you want to make in the world? (A description of
    what you want to change about the status quo, in the world, your
-   personal vision for this area)
+   personal vision for this area, 1500 char)
 
 I want to to help people involved in grassroots coding groups that aim
 to improve diversity in computing to learn, share, and improve their
@@ -24,7 +24,7 @@ teaching practices and community organization skills.
 
 3) What do you believe has prevented this change to date?  (Describe
    the innovations or questions you would like to explore during the
-   fellowship year)
+   fellowship year, 1500 char)
 
 1. Most people are unaware of how much we actually know about teaching
    and learning: if you ask the average programmer or professor what
@@ -39,7 +39,7 @@ teaching practices and community organization skills.
    make friends at City Hall."
 
 4) What are you going to do to get there?  (A description of what you
-   actually plan to do during the year)
+   actually plan to do during the year, 1500 char)
 
 I have spent the last six years building a volunteer organization
 called Software Carpentry whose members now teach several hundred
@@ -61,7 +61,7 @@ from these projects to effect significant change.
    then recruit people who have participated in these workshops to
    become future instructors themselves.
 
-5) What challenges or uncertainties do you expect to face?
+5) What challenges or uncertainties do you expect to face? (1500 char)
 
 1. Grassroots coding organizations that focus on under-represented
    groups are often shoestring operations.  Many will not be able to
@@ -76,7 +76,7 @@ from these projects to effect significant change.
    recruit a diverse group of collaborators and give them real power
    over the content and direction of this project.
 
-6) What part does openness play in your idea?
+6) What part does openness play in your idea? (1500 char)
 
 1. Software Carpentry's lessons have had contributions from several
    hundred people over four years, primarily because it adapted open

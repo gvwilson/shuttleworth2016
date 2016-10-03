@@ -1,5 +1,5 @@
-# Shuttleworth Foundation Fellowship Proposal September 2016
+# Shuttleworth Foundation Fellowship Proposal October 2016
 
-Application for Shuttleworth Foundation fellowship, submitted Sept. 2016.
+Application for Shuttleworth Foundation fellowship, submitted Oct. 2016.
 
-* [Answers to questions](questions.txt)
+Video of application: https://vimeo.com/185388827
